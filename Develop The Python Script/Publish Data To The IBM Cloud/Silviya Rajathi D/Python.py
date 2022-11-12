@@ -15,7 +15,7 @@ client = wiotp.sdk.device.DeviceClient(config = myConfig, logHandlers = None)
 client.connect()
 
 while True:
-    name = "Asvi"
+    name = "Silviya Rajathi D"
     #in area location
     
     latitude = 17.4219272 
